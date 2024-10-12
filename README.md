@@ -1,3 +1,5 @@
+![Profile views](https://komarev.com/ghpvc/?username=avin1508&color=blue)
+
 ### 👋 Hey there! I’m Avinash Kumar (@avin1508)
 
 Welcome to my GitHub space! I’m a passionate **Backend Engineer** with a knack for solving complex problems and building real-time applications. Currently, I’m sharpening my skills as a Software Engineer Intern at **Doodleblue Innovations**, where I’m diving deep into backend technologies and creating impactful solutions.
